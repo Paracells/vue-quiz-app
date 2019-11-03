@@ -1,4 +1,9 @@
 # quizvue
+Simple quiz app with api opentdb.com
+##TODO
+
+1. Create onClick when click Submit
+2. Animation correct or incorrect answer
 
 ## Project setup
 ```
